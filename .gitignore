@@ -1,0 +1,9 @@
+# Игнорировать node_modules
+node_modules/
+
+# Игнорировать файлы IDE
+.idea/
+.vscode/
+
+# Игнорировать системные файлы
+.DS_Store
